@@ -16,6 +16,10 @@ h1 {
   color: #212121;
   box-sizing: border-box;
 }
+@media (max-width: 400px) {
+  h1{
+font-size:30px;
+}}
 
 .dots {
   display: inline-flex;

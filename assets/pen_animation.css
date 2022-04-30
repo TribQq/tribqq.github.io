@@ -66,7 +66,12 @@
      var(--bg-09-a),
      var(--bg-10-a); 
  }
- 
+ @media (max-width: 400px) {
+  .rainbow-marker-loader{
+    height:2.5rem;
+    width:7rem;
+  }
+ }
  .rainbow-marker-loader::after{
    content:'';
    display:block;
