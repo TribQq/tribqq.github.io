@@ -2,7 +2,12 @@
 
 <p>Simple readirect/loading page example.</p>
 
-<p>In web wersion i add redirect to my website</p>
+<p>In web wersion i added redirect to my website</p>
+<p>
+<a href="https://tribqq.github.io/">https://tribqq.github.io/</a>  - redirect to about</p>
+<a href="https://tribqq.github.io/portfolio/">https://tribqq.github.io/portfolio/</a>  - redirect to portfolio</p>
+
+
 
 For use
 
