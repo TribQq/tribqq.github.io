@@ -12,4 +12,4 @@ For use
 ```meta http-equiv="refresh" content="1;URL=http://f74708i5.beget.tech/```
 
 
-<img src="assets/description/loading.png">
+<img src="assets/description/loading.gif">
